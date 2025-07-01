@@ -118,7 +118,12 @@
             //        }
             //    }
             //}
-
+            //Console.Write("array3: [ ");
+            //for (int i = 0; i < array3.Length; i++)
+            //{
+            //    Console.Write($"{array3[i]}, ");
+            //}
+            //Console.Write("]");
             #endregion
 
             #region Longest Distance
